@@ -17,5 +17,17 @@ To start using this project use the following commands:
 - `git clone https://github.com/Mureithiivy/delani-studio.git`
 - `cd delani-studio`
 - `code .`
+
+## Technologies Used
+* HTML
+* CSS and Google fonts
+* JQuery
+* Javascript
+* Bootstrap
+## Known Bugs
+I haven't encountered any bugs during the development of this project if any please reach me out on the contact details below. 
+
+## Support and Contact
+To collaborate, reach me on the [Email](mureithivy@gmail.com). Always at your service 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
