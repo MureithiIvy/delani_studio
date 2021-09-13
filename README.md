@@ -17,3 +17,5 @@ To start using this project use the following commands:
 - `git clone https://github.com/Mureithiivy/delani-studio.git`
 - `cd delani-studio`
 - `code .`
+### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
