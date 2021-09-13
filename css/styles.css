@@ -29,8 +29,8 @@ html{
   height: 70px;;
 }
 #mouse-click{
-  padding-top : 22px;
-  margin-top: 10%;
+  padding-top : 20px;
+  margin-top: 0%;
   padding-bottom: 30px; 
   /* animation-iteration-count: infinite; */
 }
