@@ -2,12 +2,13 @@
 html{
   scroll-behavior: smooth;
 }
+/* landing section*/
 .landing{
   background-image: url('../images/backgrounds/h_img.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: white;
+  color:whitesmoke;
   text-align: center;
   padding-top:17%; 
   font-family: 'Gabriela', serif;
