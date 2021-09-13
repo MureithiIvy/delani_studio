@@ -9,7 +9,7 @@
 
 1. Modern Browser
 2. PC or any electronic device with internet connection
-3. Then click  on the  link,  https:/MureithiIvy.github.io/delani-studio    to have  a look  at the  project.
+3. Then click this [link](https:/MureithiIvy.github.io/delani-studio)  to have  a look  at the  project.
 
 ## Installation Guide.
 To start using this project use the following commands:
